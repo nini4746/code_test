@@ -23,14 +23,11 @@ int main(void)
     int n;
     char cmd, ch;
 
-    /* 초기 문자열 */
     scanf("%100000s", str);
 
-    /* 더미 헤드 */
     t_node *head = new_node(0);
     t_node *cursor = head;
 
-    /* 초기 문자열을 리스트로 */
     for (int i = 0; str[i]; i++)
     {
         t_node *n = new_node(str[i]);
@@ -81,7 +78,6 @@ int main(void)
         }
     }
 
-    /* 출력 */
     t_node *p = head->next;
     while (p)
     {
