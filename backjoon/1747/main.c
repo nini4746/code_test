@@ -23,7 +23,6 @@ int main(void)
 
     scanf("%d", &n);
 
-    /* n <= 1,000,000 이므로 답은 보통 2,000,000 안에 존재(안전하게 2,000,000 사용) */
     limit = 2000000;
 
     is_prime = calloc(limit + 1, sizeof(bool));
