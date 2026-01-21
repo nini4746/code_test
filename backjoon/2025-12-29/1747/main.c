@@ -1,3 +1,5 @@
+// 백준 1747번: n 이상에서 첫 소수이면서 팰린드롬인 수 찾기
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdbool.h>

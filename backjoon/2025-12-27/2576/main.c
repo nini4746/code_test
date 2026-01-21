@@ -1,3 +1,5 @@
+// 백준 2576번: 7개의 수 중 홀수 합과 최소값 출력
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <limits.h>

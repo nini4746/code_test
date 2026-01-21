@@ -1,3 +1,5 @@
+// 백준 1932번: 삼각형에서 위에서 아래로 내려올 때 얻는 최대 합
+
 #include <stdio.h>
 #include <stdlib.h>
 

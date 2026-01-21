@@ -1,3 +1,5 @@
+// 백준 10773번: 0이 나오면 직전 수를 지우며 합을 구하는 스택 시뮬레이션
+
 #include <stdio.h>
 #include <stdlib.h>
 

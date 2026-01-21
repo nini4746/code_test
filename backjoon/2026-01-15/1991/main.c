@@ -1,3 +1,5 @@
+// 백준 1991번: 이진트리의 전위/중위/후위 순회 결과 출력
+
 #include <stdio.h>
 #include <stdlib.h>
 

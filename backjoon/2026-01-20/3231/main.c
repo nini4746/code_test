@@ -1,3 +1,5 @@
+// 백준 3231번: 순열에서 (v-1)이 v보다 뒤에 있는 경우의 수 세기
+
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,3 +1,5 @@
+// 백준 11727번: 2×n 보드를 1×2, 2×1, 2×2 타일로 채우는 경우의 수
+
 #include <stdio.h>
 #include <stdlib.h>
 

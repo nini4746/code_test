@@ -1,3 +1,5 @@
+// 백준 5397번: 키로거 입력을 에디터처럼 처리해 최종 문자열 출력
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

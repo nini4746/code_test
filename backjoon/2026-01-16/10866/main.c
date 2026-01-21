@@ -1,3 +1,5 @@
+// 백준 10866번: 양쪽 push/pop 등 기본 연산을 수행하는 덱 구현
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

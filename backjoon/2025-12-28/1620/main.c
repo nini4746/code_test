@@ -1,3 +1,5 @@
+// 백준 1620번: 이름↔번호 포켓몬을 해시로 빠르게 조회
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

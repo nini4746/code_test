@@ -1,3 +1,5 @@
+// 백준 2309번: 9명 중 합이 100인 일곱 난쟁이의 키 출력
+
 #include <stdio.h>
 #include <stdlib.h>
 

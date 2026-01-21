@@ -1,3 +1,5 @@
+// 백준 2606번: 1번 컴퓨터와 연결된 감염 컴퓨터 수 BFS/DFS로 계산
+
 #include <stdio.h>
 #include <stdlib.h>
 

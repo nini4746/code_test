@@ -1,3 +1,5 @@
+// 백준 1182번: 부분수열 중 합이 S가 되는 경우의 수 세기
+
 #include <stdio.h>
 #include <stdlib.h>
 

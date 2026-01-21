@@ -1,3 +1,5 @@
+// 백준 11725번: 루트 1인 트리에서 각 노드의 부모 찾기 (미해결)
+
 #include <stdio.h>
 #include <stdlib.h>
 

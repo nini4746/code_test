@@ -1,3 +1,5 @@
+// 백준 9461번: 파도반 수열의 n번째 값 계산
+
 #include <stdio.h>
 #include <stdlib.h>
 

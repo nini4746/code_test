@@ -1,3 +1,5 @@
+// 백준 10093번: 주어진 두 수 사이의 모든 정수 개수와 목록 출력
+
 #include <stdio.h>
 #include <stdlib.h>
 

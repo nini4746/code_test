@@ -1,3 +1,5 @@
+// 백준 23971번: 세로 n, 가로 m 간격을 두고 앉을 수 있는 좌석 최대 개수 계산
+
 #include <stdio.h>
 #include <stdlib.h>
 

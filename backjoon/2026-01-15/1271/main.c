@@ -1,3 +1,5 @@
+// 백준 1271번: 큰 수의 나눗셈과 나머지 계산
+
 #include <stdio.h>
 #include <string.h>
 

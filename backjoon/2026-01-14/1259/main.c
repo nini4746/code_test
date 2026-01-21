@@ -1,3 +1,5 @@
+// 백준 1259번: 여러 수에 대해 팰린드롬인지 판별
+
 #include <stdio.h>
 #include <string.h>
 

@@ -1,3 +1,5 @@
+// 백준 2178번: 미로에서 BFS로 최단 이동 칸 수 구하기
+
 #include <stdio.h>
 #include <stdlib.h>
 

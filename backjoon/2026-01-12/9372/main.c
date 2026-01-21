@@ -1,3 +1,5 @@
+// 백준 9372번: 국가가 n개일 때 여행에 필요한 최소 비행기 수는 n-1
+
 #include <stdio.h>
 
 int main(void)

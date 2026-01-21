@@ -1,3 +1,5 @@
+// 백준 1431번: 길이, 자릿수 합, 사전순 기준으로 시리얼 번호 정렬
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>

@@ -1,3 +1,5 @@
+// 백준 1463번: n을 1로 만드는 최소 연산 횟수(DP: /3, /2, -1)
+
 #include <stdio.h>
 
 int main(void)

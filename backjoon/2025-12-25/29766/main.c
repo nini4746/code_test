@@ -1,3 +1,5 @@
+// 백준 29766번: 문자열에서 'DKSH' 패턴 등장 횟수 세기
+
 #include <unistd.h>
 #include <stdlib.h>
 #include <stdio.h>

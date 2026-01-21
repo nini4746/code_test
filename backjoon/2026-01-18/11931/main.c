@@ -1,3 +1,5 @@
+// 백준 11931번: 입력받은 수를 내림차순 정렬하여 출력
+
 #include <stdio.h>
 #include <stdlib.h>
 

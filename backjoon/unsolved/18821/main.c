@@ -1,3 +1,5 @@
+// 백준 18821번: t개 테스트마다 주어진 n의 홀짝을 E/O로 출력하는 문제 (미해결)
+
 #include <stdio.h>
 
 int main(void)

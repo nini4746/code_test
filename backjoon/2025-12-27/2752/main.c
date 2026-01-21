@@ -1,3 +1,5 @@
+// 백준 2752번: 세 정수를 오름차순으로 정렬
+
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,3 +1,5 @@
+// 백준 1788번: 음수까지 포함한 피보나치 수를 mod 1,000,000,000으로 출력
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>

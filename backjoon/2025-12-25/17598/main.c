@@ -1,3 +1,5 @@
+// 백준 17598번: 9표 중 Tiger와 Lion 표를 비교해 더 많은 쪽 출력
+
 #include <unistd.h>
 #include <stdlib.h>
 #include <stdio.h>

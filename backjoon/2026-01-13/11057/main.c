@@ -1,3 +1,5 @@
+// 백준 11057번: 0~9로 이루어진 오르막 수의 개수 DP로 계산
+
 #include <stdio.h>
 
 #define MOD 10007

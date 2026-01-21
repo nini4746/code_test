@@ -1,3 +1,5 @@
+// 백준 2751번: N개의 수를 O(N log N)으로 정렬해 출력
+
 #include <stdio.h>
 #include <stdlib.h>
 

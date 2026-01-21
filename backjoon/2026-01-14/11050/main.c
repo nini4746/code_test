@@ -1,3 +1,5 @@
+// 백준 11050번: nCk 이항 계수를 계산
+
 #include <stdio.h>
 #include <stdlib.h>
 

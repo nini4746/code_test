@@ -1,3 +1,5 @@
+// 백준 14852번: 2×n 보드를 여러 타일로 채우는 경우의 수 구하기
+
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,3 +1,5 @@
+// 백준 11660번: 2차원 배열의 구간 합을 빠르게 질의
+
 #include <stdio.h>
 #include <stdlib.h>
 

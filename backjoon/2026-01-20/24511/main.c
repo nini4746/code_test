@@ -1,3 +1,5 @@
+// 백준 24511번: 큐/스택이 섞인 구조에 값을 넣고 k개를 뽑았을 때 결과 구하기
+
 #include <stdio.h>
 #include <stdlib.h>
 

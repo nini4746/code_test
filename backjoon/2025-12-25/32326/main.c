@@ -1,3 +1,5 @@
+// 백준 32326번: 세 수에 3·4·5 가중치를 곱해 합을 출력
+
 #include <unistd.h>
 #include <stdlib.h>
 #include <stdio.h>

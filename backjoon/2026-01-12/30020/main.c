@@ -1,3 +1,5 @@
+// 백준 30020번: a, b 조건을 만족하면 'aba' 반복 형태로 a개의 a와 b개의 b를 포함한 문자열 구성
+
 #include <stdio.h>
 #include <stdlib.h>
 

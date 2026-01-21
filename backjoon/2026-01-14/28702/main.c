@@ -1,3 +1,5 @@
+// 백준 28702번: 직전 숫자에서 +3 한 값으로 Fizz/Buzz 판정 후 출력
+
 #include <stdio.h>
 #include <ctype.h>
 

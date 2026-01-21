@@ -1,3 +1,5 @@
+// 백준 25487번: 여러 테스트케이스에서 세 정수의 최솟값 출력
+
 #include <stdio.h>
 #include <stdlib.h>
 

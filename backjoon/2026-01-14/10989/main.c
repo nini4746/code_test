@@ -1,3 +1,5 @@
+// 백준 10989번: 1~10000 정수를 계수 정렬로 오름차순 출력
+
 #include <stdio.h>
 
 int main(void)

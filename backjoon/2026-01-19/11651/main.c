@@ -1,3 +1,5 @@
+// 백준 11651번: 2차원 좌표를 y, x 순으로 정렬
+
 #include <stdio.h>
 #include <stdlib.h>
 

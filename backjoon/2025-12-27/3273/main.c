@@ -1,3 +1,5 @@
+// 백준 3273번: 두 수의 합이 x가 되는 서로 다른 쌍의 개수 구하기
+
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,3 +1,5 @@
+// 백준 1764번: 듣도 못한/보도 못한 이름의 교집합을 정렬해 출력
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

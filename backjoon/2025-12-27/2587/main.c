@@ -1,3 +1,5 @@
+// 백준 2587번: 다섯 수의 평균과 중앙값 출력
+
 #include <stdio.h>
 #include <unistd.h>
 

@@ -1,3 +1,5 @@
+// 백준 33572번: 카드 값에서 1을 뺀 합이 m 이상이면 DIMI, 아니면 OUT
+
 #include <stdio.h>
 #include <stdlib.h>
 

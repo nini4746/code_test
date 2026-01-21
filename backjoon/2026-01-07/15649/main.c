@@ -1,3 +1,5 @@
+// 백준 15649번: 1..N 중복 없이 길이 M 순열을 사전순 출력
+
 #include <stdio.h>
 #include <stdlib.h>
 

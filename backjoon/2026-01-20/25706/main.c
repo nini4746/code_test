@@ -1,3 +1,5 @@
+// 백준 25706번: i칸에서 a[i]+1만큼 건너뛰며 끝을 나가기까지 필요한 점프 횟수
+
 #include <stdio.h>
 #include <stdlib.h>
 

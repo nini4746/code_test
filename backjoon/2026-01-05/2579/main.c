@@ -1,3 +1,5 @@
+// 백준 2579번: 연속 세 계단 금지 조건으로 최대 점수 구하기
+
 #include <stdio.h>
 #include <stdlib.h>
 

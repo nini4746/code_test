@@ -1,3 +1,5 @@
+// 백준 1406번: 커서 이동/삽입/삭제 명령 후 최종 문자열 구하기
+
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,3 +1,5 @@
+// 백준 12852번: 1로 만들기 과정에서 최소 연산 횟수와 경로 복원
+
 #include <stdio.h>
 #include <stdlib.h>
 

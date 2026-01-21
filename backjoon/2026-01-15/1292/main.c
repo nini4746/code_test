@@ -1,3 +1,5 @@
+// 백준 1292번: 1 2 2 3 3 3 … 수열에서 구간 합 구하기
+
 #include <stdio.h>
 #include <stdlib.h>
 

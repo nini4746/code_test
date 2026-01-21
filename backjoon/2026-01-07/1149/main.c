@@ -1,3 +1,5 @@
+// 백준 1149번: 인접한 집은 다른 색으로 칠하며 전체 최소 비용을 구하기
+
 #include <stdio.h>
 #include <stdlib.h>
 

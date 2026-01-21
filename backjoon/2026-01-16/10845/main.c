@@ -1,3 +1,5 @@
+// 백준 10845번: push/pop/front/back/size/empty를 지원하는 큐 구현
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

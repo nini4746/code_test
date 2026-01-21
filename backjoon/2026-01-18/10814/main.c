@@ -1,3 +1,5 @@
+// 백준 10814번: 나이순으로 정렬하되 같은 나이는 입력 순서를 유지
+
 #include <stdio.h>
 #include <stdlib.h>
 

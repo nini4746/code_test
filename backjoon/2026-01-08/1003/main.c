@@ -1,3 +1,5 @@
+// 백준 1003번: 피보나치 함수 호출 시 0과 1이 출력되는 횟수 세기
+
 #include <stdio.h>
 #include <stdlib.h>
 

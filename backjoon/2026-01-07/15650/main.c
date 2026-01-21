@@ -1,3 +1,5 @@
+// 백준 15650번: 1..N 중복 없이 오름차순 길이 M 조합 출력
+
 #include <stdio.h>
 #include <stdlib.h>
 

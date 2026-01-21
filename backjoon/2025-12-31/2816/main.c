@@ -1,3 +1,5 @@
+// 백준 2816번: 리모컨 버튼 시퀀스로 KBS1, KBS2를 앞쪽으로 이동시켜 배치
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>

@@ -1,3 +1,5 @@
+// 백준 15652번: 1..N 중복 허용 오름차순 길이 M 수열 출력
+
 #include <stdio.h>
 #include <stdlib.h>
 

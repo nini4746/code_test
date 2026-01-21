@@ -1,3 +1,5 @@
+// 백준 12016번: 작업 시간 순으로 종료될 때 라운드 로빈 순서(완료 시각) 계산
+
 #include <stdio.h>
 #include <stdlib.h>
 

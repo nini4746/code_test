@@ -1,3 +1,5 @@
+// 백준 4307번: 개미가 양끝으로 떨어질 최소/최대 시간 계산
+
 #include <stdio.h>
 #include <limits.h>
 #include <stdlib.h>

@@ -1,3 +1,5 @@
+// 백준 9625번: 버튼을 k번 눌렀을 때 출력되는 A/B 개수 계산
+
 #include <stdio.h>
 #include <stdlib.h>
 

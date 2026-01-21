@@ -1,3 +1,5 @@
+// 백준 11724번: 무방향 그래프의 연결 요소 개수 세기
+
 #include <stdio.h>
 #include <stdlib.h>
 

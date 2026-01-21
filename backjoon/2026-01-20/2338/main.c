@@ -1,3 +1,5 @@
+// 백준 2338번: 큰 정수의 덧셈, 뺄셈, 곱셈 결과 출력
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

@@ -1,3 +1,5 @@
+// 백준 13699번: 주어진 점화식 t[n]을 DP로 계산
+
 #include <stdio.h>
 #include <stdlib.h>
 

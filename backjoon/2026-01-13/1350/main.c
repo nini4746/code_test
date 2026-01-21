@@ -1,3 +1,5 @@
+// 백준 1350번: 파일 크기와 블록 크기로 필요한 총 블록 수 계산
+
 #include <stdio.h>
 #include <stdlib.h>
 

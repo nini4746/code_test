@@ -1,3 +1,5 @@
+// 백준 11659번: 1차원 배열의 구간 합을 여러 번 빠르게 질의
+
 #include <stdio.h>
 #include <stdlib.h>
 

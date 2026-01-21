@@ -1,3 +1,5 @@
+// 백준 15688번: N(≤1,000,000)개의 수를 정렬하여 출력
+
 #include <stdio.h>
 #include <stdlib.h>
 

@@ -1,3 +1,5 @@
+// 백준 30802번: 티셔츠 패키지와 펜 묶음 배분 수량 계산 후 남은 인원 나눔
+
 #include <stdio.h>
 #include <stdlib.h>
 

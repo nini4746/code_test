@@ -1,3 +1,5 @@
+// 백준 10610번: 주어진 숫자들로 30의 배수를 만들 수 있는지, 만들면 최댓값 출력
+
 #include <stdio.h>
 #include <string.h>
 

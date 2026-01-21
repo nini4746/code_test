@@ -1,3 +1,5 @@
+// 백준 15654번: 주어진 N개 수로 중복 없이 길이 M 순열 출력
+
 #include <stdio.h>
 #include <stdlib.h>
 

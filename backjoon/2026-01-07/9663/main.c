@@ -1,3 +1,5 @@
+// 백준 9663번: N×N 체스판에 서로 공격하지 않게 퀸 N개 놓기
+
 #include <stdio.h>
 #include <stdlib.h>
 

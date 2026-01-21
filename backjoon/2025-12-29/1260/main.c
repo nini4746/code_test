@@ -1,3 +1,5 @@
+// 백준 1260번: DFS와 BFS 순회를 각각 출력
+
 #include <stdio.h>
 #include <stdlib.h>
 

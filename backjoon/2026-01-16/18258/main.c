@@ -1,3 +1,5 @@
+// 백준 18258번: push/pop/size/empty/front/back를 처리하는 큐 2 구현
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

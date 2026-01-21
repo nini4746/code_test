@@ -1,3 +1,5 @@
+// 백준 21600번: 각 위치 높이 제한 내에서 쌓을 수 있는 계단의 최대 높이 구하기
+
 #include <stdio.h>
 #include <stdlib.h>
 

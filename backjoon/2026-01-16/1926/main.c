@@ -1,3 +1,5 @@
+// 백준 1926번: 그림의 개수와 각 그림 넓이를 BFS/DFS로 세기
+
 #include <stdio.h>
 #include <stdlib.h>
 

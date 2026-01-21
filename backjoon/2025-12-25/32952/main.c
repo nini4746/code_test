@@ -1,3 +1,5 @@
+// 백준 32952번: r에서 m/k번 절반씩 줄여 남은 값 출력
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>

@@ -1,3 +1,5 @@
+// 백준 15651번: 1..N 중복 허용 길이 M 순열을 사전순 출력
+
 #include <stdio.h>
 #include <stdlib.h>
 

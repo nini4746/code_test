@@ -1,3 +1,5 @@
+// 백준 9095번: 1,2,3을 더해 n을 만드는 방법의 수
+
 #include <stdio.h>
 #include <stdlib.h>
 
