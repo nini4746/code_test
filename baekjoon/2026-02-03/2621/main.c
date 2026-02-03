@@ -58,7 +58,6 @@ int main(void)
 				pair2 = i;
 		}
 	}
-
 	if (four)
 	{
 		printf("%d\n", 800 + four);
@@ -97,15 +96,11 @@ int main(void)
 		printf("%d\n", 300 + big * 10 + small);
 		return 0;
 	}
-
-	/* 8. 원페어 */
 	if (pair1)
 	{
 		printf("%d\n", 200 + pair1);
 		return 0;
 	}
-
-	/* 9. 하이카드 */
 	printf("%d\n", 100 + max);
 	return 0;
 }
